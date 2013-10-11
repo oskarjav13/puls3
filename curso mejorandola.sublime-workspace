@@ -1,0 +1,435 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"color",
+				"color"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"colo",
+				"color"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"rig",
+				"right"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"to",
+				"top	top"
+			],
+			[
+				"BOD",
+				"body"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"m",
+				"meta	Tag"
+			],
+			[
+				"ti",
+				"title	Tag"
+			],
+			[
+				"L",
+				"link	Tag"
+			],
+			[
+				"LIN",
+				"link	Tag"
+			],
+			[
+				"ME",
+				"meta	Tag"
+			],
+			[
+				"TI",
+				"title	Tag"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"tit",
+				"TITLE	Tag"
+			],
+			[
+				"t",
+				"title	Tag"
+			],
+			[
+				"meta",
+				"meta	Tag"
+			],
+			[
+				"bod",
+				"body	Tag"
+			],
+			[
+				"p",
+				"p	Tag"
+			],
+			[
+				"foot",
+				"footer	Tag"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"li",
+				"li	Tag"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"na",
+				"nav	Tag"
+			],
+			[
+				"img",
+				"img	Tag"
+			],
+			[
+				"ar",
+				"ARTICLE	Tag"
+			],
+			[
+				"b",
+				"body	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1697,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 311.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Preferences: Browse Packages"
+			],
+			[
+				"set",
+				"Set Syntax: HTML5"
+			],
+			[
+				"sey",
+				"Set Syntax: HTML"
+			],
+			[
+				"installa",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 153.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/tizian/Dropbox/webdesign/curso mejorandola/estilos.css",
+		"/C/Users/tizian/Dropbox/webdesign/curso mejorandola/index.html",
+		"/C/Users/tizian/AppData/Local/Temp/Rar$DR09.144/index.html",
+		"/C/Users/OSCAR GALLO/Dropbox/webdesign/Test/estilos.css",
+		"/C/Users/OSCAR GALLO/Dropbox/webdesign/Test/test_border_round.html",
+		"/C/Users/tizian/Dropbox/webdesign/Test/test_border_round.html",
+		"/C/Users/tizian/Dropbox/webdesign/Test/estilos.css",
+		"/C/Users/tizian/Desktop/test.html",
+		"/E/git/Pulse/index.html",
+		"/E/site-macrodent/index.html",
+		"/E/site-macrodent/test.html",
+		"/E/site-macrodent/index",
+		"/C/Users/tizian/AppData/Roaming/Sublime Text 2/Packages/User/Distraction Free.sublime-settings",
+		"/C/Users/tizian/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/tizian/AppData/Roaming/Sublime Text 2/Packages/Emmet/Emmet.sublime-settings",
+		"/C/Users/tizian/AppData/Roaming/Sublime Text 2/Packages/User/HTML.sublime-settings",
+		"/E/mejorandola curso/clase 1/index.html",
+		"/C/Users/tizian/Dropbox/david benitez/derecho_de_peticion.txt",
+		"/C/Users/tizian/Dropbox/tareas karen/dictionary/dictionary.txt",
+		"/C/Users/tizian/Dropbox/manuales/Fallas impresiones.doc",
+		"/C/Users/tizian/Dropbox/manuales/MasterModels_ES.html",
+		"/C/Users/tizian/AppData/Roaming/Sublime Text 2/Packages/User/Plain text.sublime-settings",
+		"/E/mejorandola curso/Pulse/index.html",
+		"/C/Users/tizian/Dropbox/soporte almacen/Jhon Neiva problema revestimiento",
+		"/C/Users/tizian/Links/cms- macrodent.lnk",
+		"/E/git/Pulse/normalize.css",
+		"/E/git/Pulse/index1.html",
+		"/E/git/Pulse/estilos.css",
+		"/C/Users/tizian/Dropbox/plusdent/mail problem positioner",
+		"/E/git/cms- macrodent/index.html",
+		"/C/Windows/system32/http:/buy.norton.com/rd/directrenewal?ECOMMERCEACTION=RENEW&SSLT=4096&spefsku=21171505&SKUf=21171505&spskup=21208860&SKUp=21208860&TARGETPRODUCTLINE=2&serviceID=2&TARGETPRODUCTLINEGROUP=2&TARGETPSN=P98KQBY44CRW&psn=P98KQBY44CRW&PRODUCTTREE=CiQKOVAMUUs4NFlCUkM0CBJXMjEyODgwGjA2MTIIMTcxNTA1EgEgoAkWxq10AAE5zxAA%2F%2F%2F9%2F%2F%2F%2FAf%2F%2FGgAYAgoOElNFMTIIODAyMDY4MgEoAAgIGAEQASAAAFA%3D&pid=282&partnerID=33390&oslang=iso:ENG&oslocale=iso",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/E/mejorandola curso/freddy/index_12.html",
+		"/C/Windows/system32/http:/buy.norton.com/rd/directrenewal?ECOMMERCEACTION=RENEW&SSLT=4096&spefsku=21171505&SKUf=21171505&spskup=21208860&SKUp=21208860&TARGETPRODUCTLINE=2&serviceID=2&TARGETPRODUCTLINEGROUP=2&TARGETPSN=P98KQBY44CRW&psn=P98KQBY44CRW&PRODUCTTREE=CiQKOVAMUUs4NFlCUkM0CBJXMjEyODgwGjA2MTIIMTcxNTA1EgEgoAkWxq10AAE51hAA%2F%2F%2F9%2F%2F%2F%2FAf%2F%2FGgAYAgoOElNFMTIIODAyMDY4MgEoAAgIGAEQASAAAFA%3D&pid=282&partnerID=33390&oslang=iso:ENG&oslocale=iso",
+		"/E/git/Pulse/calculadora.html",
+		"/E/mejorandola curso/index.html",
+		"/C/Windows/system32/http:/buy.norton.com/rd/directrenewal?ECOMMERCEACTION=RENEW&SSLT=4096&spefsku=21171505&SKUf=21171505&spskup=21208860&SKUp=21208860&TARGETPRODUCTLINE=2&serviceID=2&TARGETPRODUCTLINEGROUP=2&TARGETPSN=P98KQBY44CRW&psn=P98KQBY44CRW&PRODUCTTREE=CiQKOVAMUUs4NFlCUkM0CBJXMjEyODgwGjA2MTIIMTcxNTA1EgEgoAkWxq10AAE52RAA%2F%2F%2F9%2F%2F%2F%2FAf%2F%2FGgAYAgoOElNFMTIIODAyMDY4MgEoAAgIGAEQASAAAFA%3D&pid=282&partnerID=33390&oslang=iso:ENG&oslocale=iso",
+		"/C/Windows/system32/http:/buy.norton.com/rd/directrenewal?ECOMMERCEACTION=RENEW&SSLT=4096&spefsku=21171505&SKUf=21171505&spskup=21208860&SKUp=21208860&TARGETPRODUCTLINE=2&serviceID=2&TARGETPRODUCTLINEGROUP=2&TARGETPSN=P98KQBY44CRW&psn=P98KQBY44CRW&PRODUCTTREE=CiQKOVAMUUs4NFlCUkM0CBJXMjEyODgwGjA2MTIIMTcxNTA1EgEgoAkWxq10AAE52hAA%2F%2F%2F9%2F%2F%2F%2FAf%2F%2FGgAYAgoOElNFMTIIODAyMDY4MgEoAAgIGAEQASAAAFA%3D&pid=282&partnerID=33390&oslang=iso:ENG&oslocale=iso",
+		"/C/Windows/system32/http:/buy.norton.com/rd/directrenewal?ECOMMERCEACTION=RENEW&SSLT=4096&spefsku=21171505&SKUf=21171505&spskup=21208860&SKUp=21208860&TARGETPRODUCTLINE=2&serviceID=2&TARGETPRODUCTLINEGROUP=2&TARGETPSN=P98KQBY44CRW&psn=P98KQBY44CRW&PRODUCTTREE=CiQKOVAMUUs4NFlCUkM0CBJXMjEyODgwGjA2MTIIMTcxNTA1EgEgoAkWxq10AAE53BAA%2F%2F%2F9%2F%2F%2F%2FAf%2F%2FGgAYAgoOElNFMTIIODAyMDY4MgEoAAgIGAEQASAAAFA%3D&pid=282&partnerID=33390&oslang=iso:ENG&oslocale=iso",
+		"/E/mejorandola curso/estilos_9.css",
+		"/C/Users/tizian/AppData/Roaming/Sublime Text 2/Packages/User/figure.sublime-snippet",
+		"/E/mejorandola curso/freddy/archivos/544/index.html",
+		"/C/Windows/system32/http:/buy.norton.com/rd/directrenewal?ECOMMERCEACTION=RENEW&SSLT=4096&spefsku=21171505&SKUf=21171505&spskup=21208860&SKUp=21208860&TARGETPRODUCTLINE=2&serviceID=2&TARGETPRODUCTLINEGROUP=2&TARGETPSN=P98KQBY44CRW&psn=P98KQBY44CRW&PRODUCTTREE=CiQKOVAMUUs4NFlCUkM0CBJXMjEyODgwGjA2MTIIMTcxNTA1EgEgoAkWxq10AAE53hAA%2F%2F%2F9%2F%2F%2F%2FAf%2F%2FGgAYAgoOElNFMTIIODAyMDY4MgEoAAgIGAEQASAAAFA%3D&pid=282&partnerID=33390&oslang=iso:ENG&oslocale=iso",
+		"/C/Users/tizian/AppData/Roaming/Sublime Text 2/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/E/site-macrodent/etiquetas.html",
+		"/C/Users/tizian/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/tizian/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/tizian/AppData/Roaming/Sublime Text 2/Packages/User/Side Bar.sublime-settings",
+		"/C/Users/tizian/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";\n",
+			"><"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 1697,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								148,
+								148
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			],
+			[
+				0,
+				2,
+				1,
+				3
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.33,
+			0.66,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"untitled"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 142.0,
+	"status_bar_visible": true
+}
